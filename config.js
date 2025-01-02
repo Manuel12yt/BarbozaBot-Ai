@@ -22,8 +22,8 @@ global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = `[ ⛄Sticker Maker`
-global.author = 'FELIZ NAVIDAD🎄]'
+global.packname = `[ ⛄Sticker Maker ]`
+global.author = '[ FELIZ NAVIDAD🎄 ]'
 global.stickpack = '© BarbozaBot'
 global.stickauth = 'By Barboza'
 global.wm = 'Barboza 🌸'
