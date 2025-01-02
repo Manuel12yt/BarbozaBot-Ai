@@ -22,7 +22,7 @@ let handler  = async (m, { conn, text }) => {
 }
 
 handler.help = ["ytmp4 *<url>*"];
-handler.tags = ['dl'];
+handler.tags = ['downloader'];
 handler.command = ['ytmp4'];
 handler.register = true;
 
